@@ -44,7 +44,7 @@ export const ContainerFooter = styled.div `
     align-items: center;
     flex-direction: row;
     justify-content: center;
-    background-color: red;
+    background-color: #54a494;
     height: 130px;
     position: absoluteS;
     bottom: 0;
